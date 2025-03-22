@@ -1,0 +1,25 @@
+# Ignore compiled files
+target/
+*.class
+
+# Ignore IntelliJ, Eclipse, and VS Code files
+.idea/
+*.iml
+*.vscode/
+*.classpath
+*.project
+*.settings/
+
+# Ignore Maven and Gradle folders
+.mvn/
+.gradle/
+
+# Ignore logs and reports
+logs/
+output/
+report/
+test-output/
+
+# Ignore environment variables and credentials
+*.properties
+*.env
